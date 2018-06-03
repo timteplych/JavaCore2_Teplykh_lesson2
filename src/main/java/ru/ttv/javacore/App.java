@@ -8,6 +8,13 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        String[][] array = new String[4][4];
+    }
+
+    private static void processArray(String[][] array){
+        if(array.length > 4){
+
+        }
     }
 }
